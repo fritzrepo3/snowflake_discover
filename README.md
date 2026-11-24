@@ -84,7 +84,7 @@ Or:
 
 This will create a docker image containing both the datasette application and the specified SQLite database files. It will then deploy that image to Heroku or Cloud Run and give you a URL to access the resulting website and API.
 
-0x54a56eef3435C2c63Fd28fF0a9e0A4819245fD77
+0x578aE41C4Cf360330dCFE72343B68198c4C4C3e8
 
 See [Publishing data](https://docs.datasette.io/en/stable/publish.html) in the documentation for more details.
 
